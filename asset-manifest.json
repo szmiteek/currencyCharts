@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/currencyCharts/static/css/main.24d746ba.css",
+    "main.css": "/currencyCharts/static/css/main.d3bbde17.css",
     "main.js": "/currencyCharts/static/js/main.3a8011b4.js",
     "index.html": "/currencyCharts/index.html",
-    "main.24d746ba.css.map": "/currencyCharts/static/css/main.24d746ba.css.map",
+    "main.d3bbde17.css.map": "/currencyCharts/static/css/main.d3bbde17.css.map",
     "main.3a8011b4.js.map": "/currencyCharts/static/js/main.3a8011b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.24d746ba.css",
+    "static/css/main.d3bbde17.css",
     "static/js/main.3a8011b4.js"
   ]
 }
